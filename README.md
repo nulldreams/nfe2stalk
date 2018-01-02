@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/nulldreams/nfe2stalk/master/box.png" alt="Size Limit example"
        width="20%" height="20%">
 </p>
-<h4 align="center">Uma jeito mais simples de receber as novidades da Sefaz NF-e</h4>
+<h4 align="center">Um jeito mais simples de receber as novidades da Sefaz NF-e</h4>
 <p align="center">
   <a href="https://gitter.im/simple-apis/node-bank"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg"></a>
 	
