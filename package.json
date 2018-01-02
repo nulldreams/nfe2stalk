@@ -1,0 +1,34 @@
+{
+    "name": "nfe2stalk",
+    "description": "Lib para receber em tempo real as alterações e informes da Sefaz NF-e",
+    "readmeFilename": "README.md",
+    "keywords": [
+        "nfe",
+        "sefaz"
+    ],
+    "tags": [
+        "nfe",
+        "sefaz"
+    ],
+    "version": "0.0.10",
+    "author": {
+        "name": "Igor Souza Martins",
+        "email": "nulldreams@gmail.com",
+        "homepage": "https://github.com/nulldreams"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nulldreams/nfe2stalk"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "nedb": "^1.8.0",
+        "node-schedule": "^1.2.5",
+        "request": "^2.83.0"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=v6.9.0"
+    },
+    "main": "index.js"
+}
