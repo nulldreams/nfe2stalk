@@ -1,6 +1,6 @@
 {
     "name": "nfe2stalk",
-    "description": "Lib para receber em tempo real as alterações e informes da Sefaz NF-e",
+    "description": "Um jeito simples de receber as novidades da Sefaz NF-e",
     "readmeFilename": "README.md",
     "keywords": [
         "nfe",
@@ -10,7 +10,7 @@
         "nfe",
         "sefaz"
     ],
-    "version": "0.0.10",
+    "version": "2.0.0",
     "author": {
         "name": "Igor Souza Martins",
         "email": "nulldreams@gmail.com",
